@@ -1,0 +1,2 @@
+# Personal-loan-data-analysis-Exploratory-data-analysis
+“Finding out potential target customers for personal loans”In this case study, the goal of HBFC bank is to sell more personal loans to their savings account holders. The bank wants to start a campaign to sell the personal loans, but before that they want to analyze last marketing campaign data to understand the profile of potential loan customers
